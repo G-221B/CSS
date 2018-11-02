@@ -1,0 +1,78 @@
+html,body{
+	height: 100%;
+}
+body{
+	display: flex;
+	flex-direction: column;
+}
+.page-mainer{
+	flex: 1;
+}
+.page-header{
+	text-align: right;
+	padding-top: 10px;	
+}
+.page-header a{
+	margin-right: 15px;
+}
+.page-beijing{
+	color: #FFFFFF;
+	background-color: #3385ff;
+	text-decoration-line: none;
+	font-size: 12px;
+}
+
+.form-container button{
+	background-color: #0080ff;
+}
+.a1{
+	color: #000000;
+}
+.logo-container
+{	
+
+	margin-top: 58px;
+	text-align: center;
+
+}
+.form-container{
+	margin-top: 4px;
+	text-align: center;
+	color: #FFFFFF;
+
+}
+.submit-btn{
+  width: 100px;
+  height: 36px;
+  color: #fff;
+  font-size: 15px;
+  letter-spacing: 1px;
+  background: #3385ff;
+  border: 1px solid #3385ff;
+  outline: none;
+  cursor: pointer;
+  margin-left: -4px;
+  height: 35px;
+  padding-bottom: 5px;
+  padding-top: -1px;
+}
+.qrcode{
+	margin-top: 250px;
+	margin-left: 725px;
+}
+.wenzi{
+	margin-left: 745px;
+	font-size: 10px;
+	color: #7B7B7B;
+}
+.footer-info {
+	text-align: center;
+	line-height: 20px;
+	
+}
+.footer-info a,p{
+	margin-left: 10px;
+	font-size: 10px;
+	color: #7B7B7B;
+
+}
